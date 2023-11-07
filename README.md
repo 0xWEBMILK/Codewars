@@ -11,8 +11,31 @@
 
   <ul>
     <li><b><i>N</i> Kyu</b></li>
-    <ul><li><b><i>X</i></b> Task</li></ul>
-    <ul><li><b><i>X</i></b> Task</li></ul>
-    <ul><li><b><i>X</i></b> Task</li></ul>
+    <ul>
+      <li><b><i>X</i></b> Task</li>
+      <ul>
+        <li><b>index.js</b></li>
+        <li><b>instructions.md</b></li>
+      </ul>
+    </ul>
+    <ul>
+      <li><b><i>X</i></b> Task</li>
+      <ul>
+        <li><b>index.js</b></li>
+        <li><b>instructions.md</b></li>
+      </ul>
+    </ul>
+        <ul>
+      <li><b><i>X</i></b> Task</li>
+      <ul>
+        <li><b>index.js</b></li>
+        <li><b>instructions.md</b></li>
+      </ul>
+    </ul>
   </ul>
+
+  <h2>⭐ 3 - Programming languages used</h2>
+  <ol>
+    <li><b>JavaScript</b></li>
+  </ol>
 </div>
