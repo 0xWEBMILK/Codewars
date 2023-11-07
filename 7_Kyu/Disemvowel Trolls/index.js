@@ -1,1 +1,1 @@
-disemvowel = str => str.replace(/[aeiou]/gi,'');
+const check = (a,x) => a.includes(x)
