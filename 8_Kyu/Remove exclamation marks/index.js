@@ -1,1 +1,0 @@
-const removeExclamationMarks = (s) => s.replace('!', '')

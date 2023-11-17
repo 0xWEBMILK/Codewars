@@ -1,1 +1,0 @@
-const opposite = (number) => -number
