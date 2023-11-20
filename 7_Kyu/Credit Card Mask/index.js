@@ -1,0 +1,1 @@
+const cardMask = (number) => number.replace(/.(?=(.{4}))/g, '#')
