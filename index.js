@@ -1,6 +1,9 @@
-// complete the function
-function solution(string) {
-    console.log();
+const duplicateCount = (str) => {
+    const result = [];
+
+    for (i of str) {
+        console.log(result.includes() ? "" :);
+    }
 }
 
-solution('camelCasingTest');
+duplicateCount('abcde')
