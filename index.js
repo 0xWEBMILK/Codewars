@@ -2,8 +2,10 @@ const duplicateCount = (str) => {
     const result = [];
 
     for (i of str) {
-        console.log(result.includes() ? "" :);
+    result.includes() ? "" : result.push(i);
     }
+
+    console.log(result)
 }
 
-duplicateCount('abcde')
+duplicateCount('abbddccee')
