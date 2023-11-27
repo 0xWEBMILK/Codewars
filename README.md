@@ -39,6 +39,3 @@
     <li><b>JavaScript</b></li>
   </ol>
 </div>
-
-
-Good luck!
