@@ -40,6 +40,7 @@
   <h2>⭐ 3 - Programming languages used</h2>
   <ol>
     <li><b>JavaScript</b></li>
+    <li><b>Python - <i>soon</i></b></li>
   </ol>
 </div>
 
