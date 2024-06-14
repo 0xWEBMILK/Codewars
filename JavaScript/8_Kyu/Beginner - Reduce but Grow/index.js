@@ -1,1 +1,0 @@
-const grow = (x) => x.reduce((acc, item) => acc * item);
