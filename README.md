@@ -1,6 +1,4 @@
 <div>
-  <h1>Hey there!</h1>
-
   <img src="https://assets-global.website-files.com/62e3ee10882dc50bcae8d07a/634816d46fc4a32b2a583416_codewars-og-image.png">
 
   <h2>⭐ 1 - What's that?</h2>
