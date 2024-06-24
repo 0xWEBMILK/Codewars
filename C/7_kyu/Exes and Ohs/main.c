@@ -8,15 +8,8 @@ bool xo (const char* str)
     int o = 0;
 
     for (int index = 0; index < strlen(str); index++) {
-        if (tolower(str[index]) == 'x') {
-            x++;
-        }
-        else if (tolower(str[index]) == 'o') {
-            o++;
-        }
-        else {
-            0;
-        }
+        if (tolower(str[index]) == 'x') x++;
+        else if (tolower(str[index]) == 'o') o++;
     }
   
   return x == o;
